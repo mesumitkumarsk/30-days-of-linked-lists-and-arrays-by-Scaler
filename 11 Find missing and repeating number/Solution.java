@@ -33,5 +33,6 @@ public class Solution {
         Solution solution = new Solution(); 
         ArrayList<Integer> result = solution.repeatedNumber(A);
         System.out.println("Missing: " + result.get(1) + ", Repeated: " + result.get(0));
+        System.out.println("Hello World");
     }
 }
